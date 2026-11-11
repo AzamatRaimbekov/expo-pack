@@ -1,0 +1,1 @@
+{ "name": "good", "dependencies": { "expo": "~56.0.0", "react-native": "0.83.0" } }

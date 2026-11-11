@@ -1,0 +1,8 @@
+{
+  "name": "expo-pack",
+  "owner": { "name": "Azamat Raimbekov" },
+  "metadata": { "description": "Expo для новичков: настройка компьютера, подключение телефона, ошибки Expo Go, выход в магазины" },
+  "plugins": [
+    { "name": "expo-pack", "source": "./", "description": "Expo для новичков: настройка с нуля, подключение iPhone и Android, ошибки, релиз в Google Play и App Store" }
+  ]
+}

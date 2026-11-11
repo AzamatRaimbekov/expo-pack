@@ -1,0 +1,18 @@
+{
+  "name": "expo-pack",
+  "version": "0.2.0",
+  "description": "Expo для новичков на русском: проверка проекта, запуск на телефоне через Expo Go, разбор ошибок, качество экранов и релиз в Google Play / App Store. Работает поверх официального плагина expo.",
+  "author": {
+    "name": "Azamat Raimbekov"
+  },
+  "license": "MIT",
+  "keywords": [
+    "expo",
+    "react-native",
+    "eas",
+    "expo-go",
+    "mobile"
+  ],
+  "homepage": "https://github.com/AzamatRaimbekov/expo-pack",
+  "repository": "https://github.com/AzamatRaimbekov/expo-pack"
+}

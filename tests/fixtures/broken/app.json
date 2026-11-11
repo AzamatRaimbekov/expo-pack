@@ -1,0 +1,1 @@
+{ "expo": { "name": "Broken", "icon": "./assets/nope.png", "android": { "package": "com.example.app" }, "ios": { "bundleIdentifier": "bad id" } } }
